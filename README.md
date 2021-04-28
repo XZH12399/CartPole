@@ -1,2 +1,2 @@
 # CartPole
-Using DQN(a alogrthim in reinforcement learning) to play CartPole
+Using DQN(a algorithm in reinforcement learning) to play CartPole
